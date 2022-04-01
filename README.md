@@ -54,7 +54,7 @@ Dept of Computer Science and Engineering
 > 비전공자를 위한 웹 프로그래밍 동아리 **Pirogramming** (2020.12 ~ 2021.08) 
 
 ## 📌 Experience
-- 못난이 작물 직거래 플랫폼 **PickyFarm** (2021.09 ~ 2021.12) : 웹 프론트 반응형 화면 구현
+- 못난이 작물 직거래 플랫폼 **PickyFarm** (2021.09 ~ 2021.12) : 웹 프론트 반응형 화면 구현 
 
 <br>
 
