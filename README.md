@@ -1,7 +1,7 @@
 ### 👩🏻‍💻 **Server Developer**
 
 ## ✉️ Contact
-seoljiwon@korea.ac.kr
+jseol1224@gmail.com
 
 ## 🏫 Education
 **Korea Univ.**
